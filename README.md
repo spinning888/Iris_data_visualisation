@@ -110,7 +110,13 @@ Demonstrates traditional OvO decomposition VS direct three-class non-linear boun
 
 ## 🌐 Interactive HTML
 
-Open Task4_Interactive.html for 360° operations:
+Open for 360° operations:
+
+The interactive 3D visualization is available via GitHub Pages:
+
+👉 https://spinning888.github.io/Iris_data_visualisation/Task4_Interactive.html
+
+No local environment is required.
 
 | Operation | Function |
 |-----------|----------|
